@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emphasis and Highlighting</title>
+</head>
+<body>
+    <p>Using both the <strong><em>&lt;strong&gt;</em></strong> and <em><strong>&lt;em&gt;</strong></em> tags that you just learned, mark up this text to show what you think should be <strong>emphasized</strong> and <em>highlighted</em>.</p>
+</body>
+</html>
